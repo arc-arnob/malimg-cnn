@@ -1,3 +1,7 @@
+# CNNs for Malware Categorisation
+
+In this project, we employed a CNN architecture to classify MalImg malware binaries, obtaining 93% of mean accuracy over 20 classes. Furthermore, we classified over 100GB of real malicious software from the darknet, reaching 82% of mean accuracy over more than 500 classes. A detailed description of the project's aim, experiments, and results can be found in our blog post at https://oasis-soul-ee5.notion.site/Applying-CNNs-to-Malware-Classification-5273d5a57d3341d991ccffacb45237cf
+
 ### Steps to reproduce the code.
 1. Run: 
     ```bash
